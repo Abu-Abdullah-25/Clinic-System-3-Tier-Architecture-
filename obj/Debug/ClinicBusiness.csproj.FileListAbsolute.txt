@@ -1,0 +1,9 @@
+C:\Users\XPRISTO\source\repos\ClinicBusiness\obj\Debug\ClinicBusiness.csproj.AssemblyReference.cache
+C:\Users\XPRISTO\source\repos\ClinicBusiness\obj\Debug\ClinicBusiness.csproj.CoreCompileInputs.cache
+C:\Users\XPRISTO\source\repos\ClinicBusiness\bin\Debug\ClinicBusiness.dll
+C:\Users\XPRISTO\source\repos\ClinicBusiness\bin\Debug\ClinicBusiness.pdb
+C:\Users\XPRISTO\source\repos\ClinicBusiness\bin\Debug\ClinicDataAccess.dll
+C:\Users\XPRISTO\source\repos\ClinicBusiness\bin\Debug\ClinicDataAccess.pdb
+C:\Users\XPRISTO\source\repos\ClinicBusiness\obj\Debug\ClinicBu.03D4C73E.Up2Date
+C:\Users\XPRISTO\source\repos\ClinicBusiness\obj\Debug\ClinicBusiness.dll
+C:\Users\XPRISTO\source\repos\ClinicBusiness\obj\Debug\ClinicBusiness.pdb
